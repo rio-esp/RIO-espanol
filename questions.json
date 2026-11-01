@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "ja": "今朝は7時に起きて、シャワーを浴びてから朝食を食べました。",
+    "es": "Esta mañana me levanté a las siete, me duché y luego desayuné.",
+    "category": "点過去",
+    "explanation": "完了した動作を順に述べるので点過去を使う。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "me levanté・me duché・desayuné は、今朝起きた行動を順番に区切って述べる点過去。"
+    }
+  },
+  {
+    "id": 2,
+    "ja": "昨日は疲れていたので、いつもより早く寝ました。",
+    "es": "Ayer estaba cansada, así que me acosté más temprano de lo normal.",
+    "category": "点過去・線過去",
+    "explanation": "状態は estaba、寝た動作は me acosté。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "estaba＝estar の線過去（疲れていたという背景）。me acosté＝acostarse の点過去（寝たという一回の行動）。"
+    }
+  },
+  {
+    "id": 3,
+    "ja": "以前はスペイン語を話すのが怖かったけれど、今は間違えるのが怖くありません。",
+    "es": "Antes tenía miedo de hablar español, pero ahora no tengo miedo de cometer errores.",
+    "category": "線過去",
+    "explanation": "過去の継続した状態は tenía miedo de。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "tenía＝tener の線過去。「以前は怖かった」という継続的な状態。tuve miedo も状況次第で可能ですが、一時的に怖くなった出来事のように響きます。"
+    }
+  },
+  {
+    "id": 4,
+    "ja": "昨日、新しい本を買いましたが、まだ読んでいません。",
+    "es": "Ayer compré un libro nuevo, pero todavía no lo he leído.",
+    "category": "現在完了",
+    "explanation": "買ったのは点過去、まだ読んでいない状態は現在完了で表せる。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "compré は ayer と結びつく点過去。no lo he leído は「今の時点でもまだ読んでいない」という現在とのつながりを示す現在完了。中南米では no lo leí も文脈次第で使われます。"
+    }
+  },
+  {
+    "id": 5,
+    "ja": "ここで写真を撮ってもいいですか？",
+    "es": "¿Puedo tomar una foto aquí?",
+    "category": "許可",
+    "explanation": "¿Puedo + 不定詞? で許可を求める。",
+    "grammar": {
+      "title": "poder＋不定詞",
+      "meaning": "「〜してもいいですか」「〜できますか」と許可や可能性を尋ねる表現です。",
+      "contrast": "puedo は poder の現在形・一人称単数です。後ろの動詞は不定詞のままにします。",
+      "rule": "puedo / puedes / puede / podemos / pueden。",
+      "point": "¿Puedo + 不定詞? で許可を求める。"
+    }
+  },
+  {
+    "id": 6,
+    "ja": "明日、時間があれば友達に会いに行きます。",
+    "es": "Mañana, si tengo tiempo, voy a ver a una amiga.",
+    "category": "条件文",
+    "explanation": "現実的な条件は si + 現在形。",
+    "grammar": {
+      "title": "si を使う現実的な条件文",
+      "meaning": "実現する可能性のある条件には、si＋現在形を使うのが基本です。未来の話でも si の直後は通常未来形にしません。",
+      "contrast": "条件節の後ろには現在形・ir a＋不定詞・命令形などが続きます。仮定の度合いが変わると別の形が必要です。",
+      "rule": "Si tengo tiempo, voy a salir.（時間があれば出かける）",
+      "point": "現実的な条件は si + 現在形。"
+    }
+  },
+  {
+    "id": 7,
+    "ja": "子どもの頃、毎週日曜日に祖母の家へ行っていました。",
+    "es": "Cuando era niña, iba a casa de mi abuela todos los domingos.",
+    "category": "線過去",
+    "explanation": "過去の習慣は iba。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "era＝ser の線過去、iba＝ir の線過去。「子どもの頃」「毎週日曜」の習慣・背景です。fui だと、区切られた訪問や期間として述べる感じになります。"
+    }
+  },
+  {
+    "id": 8,
+    "ja": "スーパーへ行ったとき、雨が降っていました。",
+    "es": "Cuando fui al supermercado, estaba lloviendo.",
+    "category": "点過去・線過去",
+    "explanation": "移動した出来事と、その背景で続いていた雨を区別。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "fui＝ir の点過去（スーパーへ行った出来事）。estaba lloviendo＝estar の線過去＋現在分詞（そのとき雨が降っていた背景）。"
+    }
+  },
+  {
+    "id": 9,
+    "ja": "昨日はいつもより早く寝ました。",
+    "es": "Ayer me acosté más temprano de lo normal.",
+    "category": "比較",
+    "explanation": "más temprano de lo normal は『いつもより早く』。",
+    "grammar": {
+      "title": "比較の表現",
+      "meaning": "más＋形容詞・副詞で「もっと〜」。比較対象があれば que を使うことが多いです。",
+      "contrast": "de lo normal は「普通より」というまとまった表現。más temprano de lo normal と言います。más temprano que de costumbre という言い方もあります。",
+      "rule": "lo＋形容詞で抽象的な「〜であること」を表すことがあります。",
+      "point": "más temprano de lo normal は「いつもより早く」。ここは de lo normal が一まとまりです。que lo normal という機械的な置換は避けます。"
+    }
+  },
+  {
+    "id": 10,
+    "ja": "私はまだその映画を見ていません。",
+    "es": "Todavía no he visto esa película.",
+    "category": "現在完了",
+    "explanation": "todavía no と現在完了を組み合わせる。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "todavía no と現在完了を組み合わせる。"
+    }
+  },
+  {
+    "id": 11,
+    "ja": "昨日、駅で友達に会いました。",
+    "es": "Ayer me encontré con una amiga en la estación.",
+    "category": "点過去",
+    "explanation": "昨日の一度の出来事は点過去。encontrarse con は「偶然会う」。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "昨日の一度の出来事は点過去。encontrarse con は「偶然会う」。"
+    }
+  },
+  {
+    "id": 12,
+    "ja": "先週、母に電話しました。",
+    "es": "La semana pasada llamé a mi mamá.",
+    "category": "点過去",
+    "explanation": "llamar a alguien で「人に電話する」。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "llamar a alguien で「人に電話する」。"
+    }
+  },
+  {
+    "id": 13,
+    "ja": "先月、新しい仕事を始めました。",
+    "es": "El mes pasado empecé un trabajo nuevo.",
+    "category": "点過去",
+    "explanation": "empezar は一人称点過去で empecé。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "empezar は一人称点過去で empecé。"
+    }
+  },
+  {
+    "id": 14,
+    "ja": "今朝、コーヒーを2杯飲みました。",
+    "es": "Esta mañana tomé dos tazas de café.",
+    "category": "点過去",
+    "explanation": "終わった動作を tomé で表す。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "終わった動作を tomé で表す。"
+    }
+  },
+  {
+    "id": 15,
+    "ja": "昨夜、友達とレストランで夕食を食べました。",
+    "es": "Anoche cené con una amiga en un restaurante.",
+    "category": "点過去",
+    "explanation": "cenar は「夕食を食べる」という動詞。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "cenar は「夕食を食べる」という動詞。"
+    }
+  },
+  {
+    "id": 16,
+    "ja": "3日前にそのメールを送りました。",
+    "es": "Envié ese correo hace tres días.",
+    "category": "点過去",
+    "explanation": "hace tres días は「3日前」。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "hace tres días は「3日前」。"
+    }
+  },
+  {
+    "id": 17,
+    "ja": "先週末、家で仕事をしました。",
+    "es": "El fin de semana pasado trabajé en casa.",
+    "category": "点過去",
+    "explanation": "特定の週末に完了した行動は点過去。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "特定の週末に完了した行動は点過去。"
+    }
+  },
+  {
+    "id": 18,
+    "ja": "昨日は忙しくて昼食を食べませんでした。",
+    "es": "Ayer estuve ocupada y no almorcé.",
+    "category": "点過去",
+    "explanation": "その日の状態を一区切りとして estuve と言える。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "その日の状態を一区切りとして estuve と言える。"
+    }
+  },
+  {
+    "id": 19,
+    "ja": "去年、グアテマラに行きました。",
+    "es": "El año pasado fui a Guatemala.",
+    "category": "点過去",
+    "explanation": "ir の一人称点過去は fui。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "ir の一人称点過去は fui。"
+    }
+  },
+  {
+    "id": 20,
+    "ja": "今朝、鍵を忘れました。",
+    "es": "Esta mañana olvidé las llaves.",
+    "category": "点過去",
+    "explanation": "olvidar は「忘れる」。",
+    "grammar": {
+      "title": "点過去とは？",
+      "meaning": "過去の出来事を「ひとまとまりの完了した出来事」として述べる形。昨日・先週などの表現とよく使います。",
+      "contrast": "線過去は当時の習慣・背景・進行中の状況を描写します。点過去を線過去に変えると、出来事の区切りより背景・習慣に焦点が移ります。",
+      "rule": "-ar は é/aste/ó/amos/aron、-er・-ir は í/iste/ió/imos/ieron が基本。",
+      "point": "olvidar は「忘れる」。"
+    }
+  },
+  {
+    "id": 21,
+    "ja": "子どもの頃、犬を飼っていました。",
+    "es": "Cuando era niña, tenía un perro.",
+    "category": "線過去",
+    "explanation": "過去の継続した状態には tenía。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "過去の継続した状態には tenía。"
+    }
+  },
+  {
+    "id": 22,
+    "ja": "昔は毎朝早く起きていました。",
+    "es": "Antes me levantaba temprano todas las mañanas.",
+    "category": "線過去",
+    "explanation": "繰り返していた習慣は levantaba。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "繰り返していた習慣は levantaba。"
+    }
+  },
+  {
+    "id": 23,
+    "ja": "その頃、私は神戸に住んでいました。",
+    "es": "En esa época vivía en Kobe.",
+    "category": "線過去",
+    "explanation": "過去の居住状態は vivía。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "過去の居住状態は vivía。"
+    }
+  },
+  {
+    "id": 24,
+    "ja": "以前は毎日バスで通勤していました。",
+    "es": "Antes iba al trabajo en autobús todos los días.",
+    "category": "線過去",
+    "explanation": "過去の反復習慣は iba。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "過去の反復習慣は iba。"
+    }
+  },
+  {
+    "id": 25,
+    "ja": "若い頃は時間がたくさんありました。",
+    "es": "Cuando era joven, tenía mucho tiempo.",
+    "category": "線過去",
+    "explanation": "当時の状態を tenía で描写する。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "当時の状態を tenía で描写する。"
+    }
+  },
+  {
+    "id": 26,
+    "ja": "そのホテルは小さかったけれど快適でした。",
+    "es": "El hotel era pequeño, pero era cómodo.",
+    "category": "線過去",
+    "explanation": "背景となる特徴は era。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "背景となる特徴は era。"
+    }
+  },
+  {
+    "id": 27,
+    "ja": "昨日の夜はとても寒かったです。",
+    "es": "Anoche hacía mucho frío.",
+    "category": "線過去",
+    "explanation": "天候の背景描写は hacía frío。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "天候の背景描写は hacía frío。"
+    }
+  },
+  {
+    "id": 28,
+    "ja": "以前は料理が好きではありませんでした。",
+    "es": "Antes no me gustaba cocinar.",
+    "category": "線過去",
+    "explanation": "以前の好みは me gustaba。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "以前の好みは me gustaba。"
+    }
+  },
+  {
+    "id": 29,
+    "ja": "そのとき、私はスペイン語を勉強していました。",
+    "es": "En ese momento estudiaba español.",
+    "category": "線過去",
+    "explanation": "その時点で進行していた行為を estudiaba で表す。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "その時点で進行していた行為を estudiaba で表す。"
+    }
+  },
+  {
+    "id": 30,
+    "ja": "祖父はいつも面白い話をしてくれました。",
+    "es": "Mi abuelo siempre contaba historias interesantes.",
+    "category": "線過去",
+    "explanation": "過去に繰り返された行動は contaba。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "過去に繰り返された行動は contaba。"
+    }
+  },
+  {
+    "id": 31,
+    "ja": "私が料理しているとき、電話が鳴りました。",
+    "es": "Mientras cocinaba, sonó el teléfono.",
+    "category": "点過去・線過去",
+    "explanation": "進行中の背景 cocinaba と発生した出来事 sonó。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "cocinaba＝cocinar の線過去（料理中という背景）。sonó＝sonar の点過去（電話が鳴った出来事）。"
+    }
+  },
+  {
+    "id": 32,
+    "ja": "駅に着いたとき、雨が降っていました。",
+    "es": "Cuando llegué a la estación, llovía.",
+    "category": "点過去・線過去",
+    "explanation": "到着は llegué、雨の背景は llovía。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "llegué＝llegar の点過去（到着した）。llovía＝llover の線過去（雨が降っていた）。"
+    }
+  },
+  {
+    "id": 33,
+    "ja": "昨日、私が働いている間、夫は料理していました。",
+    "es": "Ayer, mientras yo trabajaba, mi esposo cocinaba.",
+    "category": "線過去",
+    "explanation": "同時に進行していた二つの行動を線過去で描写。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "trabajaba・cocinaba はどちらも線過去。同時に続いていた二つの動作を描写します。"
+    }
+  },
+  {
+    "id": 34,
+    "ja": "その店に入ったとき、人がたくさんいました。",
+    "es": "Cuando entré en la tienda, había mucha gente.",
+    "category": "点過去・線過去",
+    "explanation": "入った瞬間は entré、背景の存在は había。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "entré＝entrar の点過去（店に入った）。había＝haber の線過去（人がたくさんいた背景）。"
+    }
+  },
+  {
+    "id": 35,
+    "ja": "子どもの頃は海が好きでしたが、今は山が好きです。",
+    "es": "Cuando era niña, me gustaba el mar, pero ahora me gustan las montañas.",
+    "category": "線過去",
+    "explanation": "過去の好みと現在の好みを対比。複数主語で gustan。",
+    "grammar": {
+      "title": "線過去とは？",
+      "meaning": "過去の習慣、繰り返し、当時の状態・背景を「そのときはこうだった」と描写する形です。",
+      "contrast": "点過去が絶対に使えないわけではありません。点過去にすると「ある期間をひとまとまりとして述べる」「変化・出来事として捉える」など、見せ方が変わります。",
+      "rule": "-ar は aba/abas/aba/ábamos/aban、-er・-ir は ía/ías/ía/íamos/ían。主な不規則動詞は ser・ir・ver。",
+      "point": "過去の好みと現在の好みを対比。複数主語で gustan。"
+    }
+  },
+  {
+    "id": 36,
+    "ja": "昨日、散歩していると友達に会いました。",
+    "es": "Ayer, mientras caminaba, me encontré con una amiga.",
+    "category": "点過去・線過去",
+    "explanation": "背景 caminaba と出来事 me encontré。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "caminaba＝caminar の線過去（歩いていた）。me encontré＝encontrarse の点過去（偶然会った）。"
+    }
+  },
+  {
+    "id": 37,
+    "ja": "彼女が来たとき、私は本を読んでいました。",
+    "es": "Cuando ella llegó, yo estaba leyendo un libro.",
+    "category": "点過去・線過去",
+    "explanation": "到着は点過去、進行中の読書は estaba leyendo。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "llegó＝llegar の点過去（彼女が来た）。estaba leyendo＝線過去＋現在分詞（私は読書中だった）。"
+    }
+  },
+  {
+    "id": 38,
+    "ja": "そのとき私は疲れていたので、家に帰りました。",
+    "es": "En ese momento estaba cansada, así que volví a casa.",
+    "category": "点過去・線過去",
+    "explanation": "状態 estaba と完了した移動 volví。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "estaba＝estar の線過去（疲れていた状態）。volví＝volver の点過去（帰宅した出来事）。"
+    }
+  },
+  {
+    "id": 39,
+    "ja": "昔は車を持っていましたが、去年売りました。",
+    "es": "Antes tenía un carro, pero lo vendí el año pasado.",
+    "category": "点過去・線過去",
+    "explanation": "継続状態 tenía と一度の出来事 vendí。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "tenía＝tener の線過去（以前の所有状態）。vendí＝vender の点過去（昨年売った出来事）。"
+    }
+  },
+  {
+    "id": 40,
+    "ja": "私たちが夕食を食べているとき、停電しました。",
+    "es": "Mientras cenábamos, se fue la luz.",
+    "category": "点過去・線過去",
+    "explanation": "背景 cenábamos と突発した停電 se fue la luz。",
+    "grammar": {
+      "title": "点過去と線過去の役割",
+      "meaning": "線過去は「背景・進行中の状況」、点過去は「そのとき起きた出来事」に使うのが典型です。",
+      "contrast": "どちらも過去を表しますが、出来事を区切って見るか、状況として描くかが違います。常に一方が絶対に誤りとは限りません。",
+      "rule": "点過去：llegué / sonó / volví。線過去：estaba / llovía / cocinaba など。",
+      "point": "cenábamos＝cenar の線過去（夕食中）。se fue＝irse の点過去（停電が起きた出来事）。"
+    }
+  },
+  {
+    "id": 41,
+    "ja": "私はもう宿題を終えました。",
+    "es": "Ya he terminado la tarea.",
+    "category": "現在完了",
+    "explanation": "ya と現在完了で「もう終えた」。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "he terminado＝haber の現在形 he＋terminar の過去分詞 terminado。「もう終えた」という現在の結果に焦点。"
+    }
+  },
+  {
+    "id": 42,
+    "ja": "彼女はまだ返事をしていません。",
+    "es": "Ella todavía no ha respondido.",
+    "category": "現在完了",
+    "explanation": "todavía no + 現在完了で未完了を表す。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "todavía no + 現在完了で未完了を表す。"
+    }
+  },
+  {
+    "id": 43,
+    "ja": "私はその町に一度も行ったことがありません。",
+    "es": "Nunca he estado en esa ciudad.",
+    "category": "現在完了",
+    "explanation": "経験を nunca he estado で表す。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "nunca he estado は「今まで一度も行ったことがない」という経験の否定。"
+    }
+  },
+  {
+    "id": 44,
+    "ja": "あなたはもうその本を読みましたか？",
+    "es": "¿Ya has leído ese libro?",
+    "category": "現在完了",
+    "explanation": "経験・完了を ya has leído で尋ねる。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "has leído＝haber の tú 形 has＋leer の過去分詞 leído。"
+    }
+  },
+  {
+    "id": 45,
+    "ja": "私は今日、まだコーヒーを飲んでいません。",
+    "es": "Hoy todavía no he tomado café.",
+    "category": "現在完了",
+    "explanation": "今日の未完了を現在完了で表す例。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "hoy todavía no he tomado は「今日の今までまだ飲んでいない」。中南米では点過去を使う地域もあります。"
+    }
+  },
+  {
+    "id": 46,
+    "ja": "私たちはこの映画を二回見たことがあります。",
+    "es": "Hemos visto esta película dos veces.",
+    "category": "現在完了",
+    "explanation": "経験回数を dos veces で示す。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "経験回数を dos veces で示す。"
+    }
+  },
+  {
+    "id": 47,
+    "ja": "最近、スペイン語をたくさん練習しています。",
+    "es": "Últimamente he practicado mucho español.",
+    "category": "現在完了",
+    "explanation": "最近の積み重ねを現在完了で表す。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "最近の積み重ねを現在完了で表す。"
+    }
+  },
+  {
+    "id": 48,
+    "ja": "私は鍵をなくしてしまいました。",
+    "es": "He perdido las llaves.",
+    "category": "現在完了",
+    "explanation": "現在に関係する結果として he perdido を使える。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "he perdido は「なくして、今も見つかっていない」という結果を伝えます。"
+    }
+  },
+  {
+    "id": 49,
+    "ja": "あなたはコロンビアに行ったことがありますか？",
+    "es": "¿Has estado alguna vez en Colombia?",
+    "category": "現在完了",
+    "explanation": "alguna vez は「これまでに」。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "alguna vez は「これまでに」。"
+    }
+  },
+  {
+    "id": 50,
+    "ja": "私はまだそのメッセージを送っていません。",
+    "es": "Todavía no he enviado ese mensaje.",
+    "category": "現在完了",
+    "explanation": "todavía no he enviado で未送信を表す。",
+    "grammar": {
+      "title": "現在完了とは？",
+      "meaning": "haber の現在形＋過去分詞で、「経験」「すでに〜した」「まだ〜していない」など、現在につながる過去を表します。",
+      "contrast": "点過去は完了した出来事を過去の一時点に置きます。中南米では「今日」「最近」でも点過去が自然な地域があり、両方可能な文脈もあります。",
+      "rule": "he / has / ha / hemos / han ＋ 過去分詞。-ar→ado、-er/-ir→ido。he visto / he hecho / he escrito など不規則もあります。",
+      "point": "todavía no he enviado で未送信を表す。"
+    }
+  },
+  {
+    "id": 51,
+    "ja": "その本を私に貸してくれますか？",
+    "es": "¿Me prestas ese libro?",
+    "category": "代名詞",
+    "explanation": "me は「私に」。prestar は貸す。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "me は「私に」。prestar は貸す。"
+    }
+  },
+  {
+    "id": 52,
+    "ja": "私は彼女に写真を送りました。",
+    "es": "Le envié una foto.",
+    "category": "代名詞",
+    "explanation": "間接目的語 le は「彼女に」。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "間接目的語 le は「彼女に」。"
+    }
+  },
+  {
+    "id": 53,
+    "ja": "私はその映画を昨日見ました。",
+    "es": "La vi ayer.",
+    "category": "代名詞",
+    "explanation": "la は女性名詞 película を受ける。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "la は女性名詞 película を受ける。"
+    }
+  },
+  {
+    "id": 54,
+    "ja": "その鍵はどこですか？ 私はそれを見つけられません。",
+    "es": "¿Dónde está la llave? No la encuentro.",
+    "category": "代名詞",
+    "explanation": "la は女性単数の llave を指す。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "la は女性単数の llave を指す。"
+    }
+  },
+  {
+    "id": 55,
+    "ja": "この本は面白いです。私はそれを読みたいです。",
+    "es": "Este libro es interesante. Quiero leerlo.",
+    "category": "代名詞",
+    "explanation": "lo を不定詞 leer の後ろに付けられる。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "lo を不定詞 leer の後ろに付けられる。"
+    }
+  },
+  {
+    "id": 56,
+    "ja": "私は友達にそれを説明しました。",
+    "es": "Se lo expliqué a mi amiga.",
+    "category": "代名詞",
+    "explanation": "le lo ではなく se lo にする。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "se lo expliqué の se は、間接目的語 le が lo の前で se に変わったもの。「友人にそれを説明した」。"
+    }
+  },
+  {
+    "id": 57,
+    "ja": "その写真を見せてくれますか？",
+    "es": "¿Me muestras esa foto?",
+    "category": "代名詞",
+    "explanation": "me は「私に」。mostrar は見せる。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "me は「私に」。mostrar は見せる。"
+    }
+  },
+  {
+    "id": 58,
+    "ja": "私はそれを買うつもりです。",
+    "es": "Voy a comprarlo.",
+    "category": "代名詞",
+    "explanation": "目的語 lo は不定詞の後ろに付けられる。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "目的語 lo は不定詞の後ろに付けられる。"
+    }
+  },
+  {
+    "id": 59,
+    "ja": "私たちは彼らにメールを送りました。",
+    "es": "Les enviamos un correo.",
+    "category": "代名詞",
+    "explanation": "les は「彼らに」。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "les は「彼らに」。"
+    }
+  },
+  {
+    "id": 60,
+    "ja": "このシャツが好きです。試着してもいいですか？",
+    "es": "Me gusta esta camisa. ¿Puedo probármela?",
+    "category": "代名詞",
+    "explanation": "probarse と目的語 la を不定詞に付ける。",
+    "grammar": {
+      "title": "目的語代名詞とは？",
+      "meaning": "「それを」「彼女に」など、すでにわかっている名詞を短い語で受けます。直接目的語 lo/la/los/las と間接目的語 le/les を区別します。",
+      "contrast": "「何を？」なら直接目的語、「誰に？」なら間接目的語を考えます。le/les と lo/la が並ぶと le/les→se になります。",
+      "rule": "通常は活用した動詞の前（lo veo）。不定詞には後ろにつなぐこともできます（quiero verlo）。",
+      "point": "probármela＝probar＋me＋la。「自分でそれ（女性名詞 camisa）を試着する」。不定詞の後ろに代名詞をつける形です。"
+    }
+  },
+  {
+    "id": 61,
+    "ja": "私はスペイン語を勉強するためにここに来ました。",
+    "es": "Vine aquí para estudiar español.",
+    "category": "前置詞",
+    "explanation": "目的を表す para + 不定詞。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "目的を表す para + 不定詞。"
+    }
+  },
+  {
+    "id": 62,
+    "ja": "これは友達へのプレゼントです。",
+    "es": "Este regalo es para una amiga.",
+    "category": "前置詞",
+    "explanation": "宛先・受け手は para。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "宛先・受け手は para。"
+    }
+  },
+  {
+    "id": 63,
+    "ja": "私は仕事でこの町に来ました。",
+    "es": "Vine a esta ciudad por trabajo.",
+    "category": "前置詞",
+    "explanation": "理由・事情を por trabajo で表す。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "理由・事情を por trabajo で表す。"
+    }
+  },
+  {
+    "id": 64,
+    "ja": "私たちはバスで中心街に行きました。",
+    "es": "Fuimos al centro en autobús.",
+    "category": "前置詞",
+    "explanation": "交通手段は en autobús。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "交通手段は en autobús。"
+    }
+  },
+  {
+    "id": 65,
+    "ja": "私は友達と一緒に旅行します。",
+    "es": "Viajo con una amiga.",
+    "category": "前置詞",
+    "explanation": "同伴を表す con。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "同伴を表す con。"
+    }
+  },
+  {
+    "id": 66,
+    "ja": "駅はホテルの近くにあります。",
+    "es": "La estación está cerca del hotel.",
+    "category": "前置詞",
+    "explanation": "cerca de + 場所。de + el = del。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "cerca de + 場所。de + el = del。"
+    }
+  },
+  {
+    "id": 67,
+    "ja": "この道をまっすぐ進んでください。",
+    "es": "Siga derecho por esta calle.",
+    "category": "前置詞",
+    "explanation": "道筋を表す por esta calle。丁寧な命令形 siga。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "道筋を表す por esta calle。丁寧な命令形 siga。"
+    }
+  },
+  {
+    "id": 68,
+    "ja": "私は朝の8時から働いています。",
+    "es": "Trabajo desde las ocho de la mañana.",
+    "category": "前置詞",
+    "explanation": "開始時刻は desde。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "開始時刻は desde。"
+    }
+  },
+  {
+    "id": 69,
+    "ja": "私は2時間スペイン語を勉強しました。",
+    "es": "Estudié español durante dos horas.",
+    "category": "前置詞",
+    "explanation": "継続時間を durante で表せる。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "継続時間を durante で表せる。"
+    }
+  },
+  {
+    "id": 70,
+    "ja": "このお店は月曜日から金曜日まで開いています。",
+    "es": "Esta tienda abre de lunes a viernes.",
+    "category": "前置詞",
+    "explanation": "期間の範囲を de ... a ... で表す。",
+    "grammar": {
+      "title": "前置詞とは？",
+      "meaning": "a・de・en・por・para・con などは、行き先・起点・手段・目的・理由などの関係を示します。",
+      "contrast": "前置詞を日本語の助詞と一対一で置き換えず、動詞や表現とセットで覚えると安定します。",
+      "rule": "para＝目的・受け手、por＝理由・経路、en＝交通手段など。文脈によって変わります。",
+      "point": "期間の範囲を de ... a ... で表す。"
+    }
+  },
+  {
+    "id": 71,
+    "ja": "明日、雨が降ったら家にいます。",
+    "es": "Mañana, si llueve, me quedo en casa.",
+    "category": "条件文",
+    "explanation": "現実的な条件は si + 現在形。",
+    "grammar": {
+      "title": "si を使う現実的な条件文",
+      "meaning": "実現する可能性のある条件には、si＋現在形を使うのが基本です。未来の話でも si の直後は通常未来形にしません。",
+      "contrast": "条件節の後ろには現在形・ir a＋不定詞・命令形などが続きます。仮定の度合いが変わると別の形が必要です。",
+      "rule": "Si tengo tiempo, voy a salir.（時間があれば出かける）",
+      "point": "現実的な条件は si + 現在形。"
+    }
+  },
+  {
+    "id": 72,
+    "ja": "時間があれば、博物館に行きたいです。",
+    "es": "Si tengo tiempo, quiero ir al museo.",
+    "category": "条件文",
+    "explanation": "si の後は現在形 tengo。",
+    "grammar": {
+      "title": "si を使う現実的な条件文",
+      "meaning": "実現する可能性のある条件には、si＋現在形を使うのが基本です。未来の話でも si の直後は通常未来形にしません。",
+      "contrast": "条件節の後ろには現在形・ir a＋不定詞・命令形などが続きます。仮定の度合いが変わると別の形が必要です。",
+      "rule": "Si tengo tiempo, voy a salir.（時間があれば出かける）",
+      "point": "si の後は現在形 tengo。"
+    }
+  },
+  {
+    "id": 73,
+    "ja": "疲れていたら、休んでください。",
+    "es": "Si estás cansada, descansa.",
+    "category": "条件文",
+    "explanation": "si + 現在形と親しい相手への命令形。",
+    "grammar": {
+      "title": "si を使う現実的な条件文",
+      "meaning": "実現する可能性のある条件には、si＋現在形を使うのが基本です。未来の話でも si の直後は通常未来形にしません。",
+      "contrast": "条件節の後ろには現在形・ir a＋不定詞・命令形などが続きます。仮定の度合いが変わると別の形が必要です。",
+      "rule": "Si tengo tiempo, voy a salir.（時間があれば出かける）",
+      "point": "si + 現在形と親しい相手への命令形。"
+    }
+  },
+  {
+    "id": 74,
+    "ja": "明日は早く起きなければなりません。",
+    "es": "Mañana tengo que levantarme temprano.",
+    "category": "義務",
+    "explanation": "tener que + 不定詞で義務。",
+    "grammar": {
+      "title": "tener que＋不定詞",
+      "meaning": "「〜しなければならない」という必要・義務を表します。tener だけを主語に合わせて活用します。",
+      "contrast": "no tengo que は「〜する必要がない」であり、「〜してはいけない」ではありません。",
+      "rule": "tengo / tienes / tiene / tenemos / tienen que＋不定詞。",
+      "point": "tener que + 不定詞で義務。"
+    }
+  },
+  {
+    "id": 75,
+    "ja": "ここでは靴を脱がなければなりませんか？",
+    "es": "¿Tengo que quitarme los zapatos aquí?",
+    "category": "義務",
+    "explanation": "tener que + 再帰動詞の不定詞。",
+    "grammar": {
+      "title": "tener que＋不定詞",
+      "meaning": "「〜しなければならない」という必要・義務を表します。tener だけを主語に合わせて活用します。",
+      "contrast": "no tengo que は「〜する必要がない」であり、「〜してはいけない」ではありません。",
+      "rule": "tengo / tienes / tiene / tenemos / tienen que＋不定詞。",
+      "point": "tener que + 再帰動詞の不定詞。"
+    }
+  },
+  {
+    "id": 76,
+    "ja": "今日は出かけなくてもいいです。",
+    "es": "Hoy no tengo que salir.",
+    "category": "義務",
+    "explanation": "no tener que は「する必要がない」。",
+    "grammar": {
+      "title": "tener que＋不定詞",
+      "meaning": "「〜しなければならない」という必要・義務を表します。tener だけを主語に合わせて活用します。",
+      "contrast": "no tengo que は「〜する必要がない」であり、「〜してはいけない」ではありません。",
+      "rule": "tengo / tienes / tiene / tenemos / tienen que＋不定詞。",
+      "point": "no tener que は「する必要がない」。"
+    }
+  },
+  {
+    "id": 77,
+    "ja": "ここで水を飲んでもいいですか？",
+    "es": "¿Puedo tomar agua aquí?",
+    "category": "許可",
+    "explanation": "¿Puedo + 不定詞? で許可を求める。",
+    "grammar": {
+      "title": "poder＋不定詞",
+      "meaning": "「〜してもいいですか」「〜できますか」と許可や可能性を尋ねる表現です。",
+      "contrast": "puedo は poder の現在形・一人称単数です。後ろの動詞は不定詞のままにします。",
+      "rule": "puedo / puedes / puede / podemos / pueden。",
+      "point": "¿Puedo + 不定詞? で許可を求める。"
+    }
+  },
+  {
+    "id": 78,
+    "ja": "窓を開けてもらえますか？",
+    "es": "¿Puedes abrir la ventana?",
+    "category": "依頼",
+    "explanation": "¿Puedes + 不定詞? は自然な依頼。",
+    "grammar": {
+      "title": "¿Puedes＋不定詞?",
+      "meaning": "「〜してくれる？」という依頼です。por favor を加えると丁寧になります。",
+      "contrast": "poder は語幹母音変化動詞で、puedes になります。丁寧さを上げたいなら ¿Podrías ...? も使えます。",
+      "rule": "puedo / puedes / puede / podemos / pueden。",
+      "point": "¿Puedes + 不定詞? は自然な依頼。"
+    }
+  },
+  {
+    "id": 79,
+    "ja": "もう少しゆっくり話してもらえますか？",
+    "es": "¿Puedes hablar un poco más despacio?",
+    "category": "依頼",
+    "explanation": "un poco más despacio で「もう少しゆっくり」。",
+    "grammar": {
+      "title": "¿Puedes＋不定詞?",
+      "meaning": "「〜してくれる？」という依頼です。por favor を加えると丁寧になります。",
+      "contrast": "poder は語幹母音変化動詞で、puedes になります。丁寧さを上げたいなら ¿Podrías ...? も使えます。",
+      "rule": "puedo / puedes / puede / podemos / pueden。",
+      "point": "un poco más despacio で「もう少しゆっくり」。"
+    }
+  },
+  {
+    "id": 80,
+    "ja": "もう一度言ってもらえますか？",
+    "es": "¿Puedes repetirlo, por favor?",
+    "category": "依頼",
+    "explanation": "repetirlo は「それを繰り返す」。",
+    "grammar": {
+      "title": "¿Puedes＋不定詞?",
+      "meaning": "「〜してくれる？」という依頼です。por favor を加えると丁寧になります。",
+      "contrast": "poder は語幹母音変化動詞で、puedes になります。丁寧さを上げたいなら ¿Podrías ...? も使えます。",
+      "rule": "puedo / puedes / puede / podemos / pueden。",
+      "point": "repetirlo は「それを繰り返す」。"
+    }
+  },
+  {
+    "id": 81,
+    "ja": "明日、友達と会う予定です。",
+    "es": "Mañana voy a reunirme con una amiga.",
+    "category": "未来",
+    "explanation": "ir a + 不定詞で近い未来の予定。",
+    "grammar": {
+      "title": "ir a＋不定詞",
+      "meaning": "「〜する予定」「これから〜する」を表す、会話で非常によく使う未来表現です。",
+      "contrast": "ir だけを現在形に活用し、a の後は不定詞です。未来形（viajaré）に言い換えられる場合もありますが、ニュアンスは異なります。",
+      "rule": "voy / vas / va / vamos / van ＋ a ＋ 不定詞。",
+      "point": "ir a + 不定詞で近い未来の予定。"
+    }
+  },
+  {
+    "id": 82,
+    "ja": "来月、コロンビアへ旅行するつもりです。",
+    "es": "El próximo mes voy a viajar a Colombia.",
+    "category": "未来",
+    "explanation": "ir a viajar で予定を表す。",
+    "grammar": {
+      "title": "ir a＋不定詞",
+      "meaning": "「〜する予定」「これから〜する」を表す、会話で非常によく使う未来表現です。",
+      "contrast": "ir だけを現在形に活用し、a の後は不定詞です。未来形（viajaré）に言い換えられる場合もありますが、ニュアンスは異なります。",
+      "rule": "voy / vas / va / vamos / van ＋ a ＋ 不定詞。",
+      "point": "ir a viajar で予定を表す。"
+    }
+  },
+  {
+    "id": 83,
+    "ja": "今日は家で仕事をしたいです。",
+    "es": "Hoy quiero trabajar en casa.",
+    "category": "希望",
+    "explanation": "querer + 不定詞で希望。",
+    "grammar": {
+      "title": "querer＋不定詞",
+      "meaning": "「〜したい」は querer＋不定詞。後ろの動詞は主語に合わせて活用しません。",
+      "contrast": "quiero hablar と quiero que hables では構造が違います。後者は別の人にしてほしいことを述べるため接続法が関わります。",
+      "rule": "quiero / quieres / quiere / queremos / quieren。",
+      "point": "querer + 不定詞で希望。"
+    }
+  },
+  {
+    "id": 84,
+    "ja": "私はもっと自然に話せるようになりたいです。",
+    "es": "Quiero hablar de forma más natural.",
+    "category": "希望",
+    "explanation": "de forma más natural は「もっと自然に」。",
+    "grammar": {
+      "title": "querer＋不定詞",
+      "meaning": "「〜したい」は querer＋不定詞。後ろの動詞は主語に合わせて活用しません。",
+      "contrast": "quiero hablar と quiero que hables では構造が違います。後者は別の人にしてほしいことを述べるため接続法が関わります。",
+      "rule": "quiero / quieres / quiere / queremos / quieren。",
+      "point": "de forma más natural は「もっと自然に」。"
+    }
+  },
+  {
+    "id": 85,
+    "ja": "私は週に3回運動するようにしています。",
+    "es": "Trato de hacer ejercicio tres veces por semana.",
+    "category": "習慣",
+    "explanation": "tratar de + 不定詞は「〜するよう努める」。",
+    "grammar": {
+      "title": "習慣を表す表現",
+      "meaning": "trato de＋不定詞は「〜するよう努力している」、seguir＋現在分詞は「〜し続ける」です。",
+      "contrast": "現在の習慣なら現在形、過去の習慣なら線過去がよく使われます。",
+      "rule": "trato / tratas / trata / tratamos / tratan。",
+      "point": "tratar de + 不定詞は「〜するよう努める」。"
+    }
+  },
+  {
+    "id": 86,
+    "ja": "最近、早く寝るようにしています。",
+    "es": "Últimamente trato de acostarme temprano.",
+    "category": "習慣",
+    "explanation": "tratar de + 再帰動詞の不定詞。",
+    "grammar": {
+      "title": "習慣を表す表現",
+      "meaning": "trato de＋不定詞は「〜するよう努力している」、seguir＋現在分詞は「〜し続ける」です。",
+      "contrast": "現在の習慣なら現在形、過去の習慣なら線過去がよく使われます。",
+      "rule": "trato / tratas / trata / tratamos / tratan。",
+      "point": "tratar de + 再帰動詞の不定詞。"
+    }
+  },
+  {
+    "id": 87,
+    "ja": "私はここに1か月滞在する予定です。",
+    "es": "Voy a quedarme aquí un mes.",
+    "category": "未来",
+    "explanation": "quedarse は滞在する。un mes は期間。",
+    "grammar": {
+      "title": "ir a＋不定詞",
+      "meaning": "「〜する予定」「これから〜する」を表す、会話で非常によく使う未来表現です。",
+      "contrast": "ir だけを現在形に活用し、a の後は不定詞です。未来形（viajaré）に言い換えられる場合もありますが、ニュアンスは異なります。",
+      "rule": "voy / vas / va / vamos / van ＋ a ＋ 不定詞。",
+      "point": "quedarse は滞在する。un mes は期間。"
+    }
+  },
+  {
+    "id": 88,
+    "ja": "明日は今日より暑くなりそうです。",
+    "es": "Mañana va a hacer más calor que hoy.",
+    "category": "未来・比較",
+    "explanation": "天候の未来を va a hacer で表す。",
+    "grammar": {
+      "title": "未来表現と比較",
+      "meaning": "va a＋不定詞で未来を表し、más ... que ... で二つを比較します。",
+      "contrast": "más calor que hoy は「今日より暑い」。比較する相手が明示されているため que を使います。",
+      "rule": "ir：voy / vas / va / vamos / van。",
+      "point": "va a hacer は天候を表す非人称の hacer。「暑くなる予定」。más ... que hoy は「今日より」。"
+    }
+  },
+  {
+    "id": 89,
+    "ja": "私はスペイン語を毎日練習し続けたいです。",
+    "es": "Quiero seguir practicando español todos los días.",
+    "category": "希望",
+    "explanation": "seguir + 現在分詞で「〜し続ける」。",
+    "grammar": {
+      "title": "querer＋不定詞",
+      "meaning": "「〜したい」は querer＋不定詞。後ろの動詞は主語に合わせて活用しません。",
+      "contrast": "quiero hablar と quiero que hables では構造が違います。後者は別の人にしてほしいことを述べるため接続法が関わります。",
+      "rule": "quiero / quieres / quiere / queremos / quieren。",
+      "point": "seguir + 現在分詞で「〜し続ける」。"
+    }
+  },
+  {
+    "id": 90,
+    "ja": "いつか中南米で仕事をしたいです。",
+    "es": "Algún día quiero trabajar en América Latina.",
+    "category": "希望",
+    "explanation": "algún día は「いつか」。",
+    "grammar": {
+      "title": "querer＋不定詞",
+      "meaning": "「〜したい」は querer＋不定詞。後ろの動詞は主語に合わせて活用しません。",
+      "contrast": "quiero hablar と quiero que hables では構造が違います。後者は別の人にしてほしいことを述べるため接続法が関わります。",
+      "rule": "quiero / quieres / quiere / queremos / quieren。",
+      "point": "algún día は「いつか」。"
+    }
+  },
+  {
+    "id": 91,
+    "ja": "この近くに薬局はありますか？",
+    "es": "¿Hay una farmacia cerca de aquí?",
+    "category": "旅行会話",
+    "explanation": "存在を尋ねる hay。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "存在を尋ねる hay。"
+    }
+  },
+  {
+    "id": 92,
+    "ja": "空港までどうやって行けばいいですか？",
+    "es": "¿Cómo puedo llegar al aeropuerto?",
+    "category": "旅行会話",
+    "explanation": "cómo puedo llegar a は行き方を尋ねる。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "cómo puedo llegar a は行き方を尋ねる。"
+    }
+  },
+  {
+    "id": 93,
+    "ja": "このバスは中心街に行きますか？",
+    "es": "¿Este autobús va al centro?",
+    "category": "旅行会話",
+    "explanation": "行き先を ir a で尋ねる。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "行き先を ir a で尋ねる。"
+    }
+  },
+  {
+    "id": 94,
+    "ja": "ここから駅まで歩いて行けますか？",
+    "es": "¿Puedo ir caminando a la estación desde aquí?",
+    "category": "旅行会話",
+    "explanation": "ir caminando は歩いて行くこと。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "ir caminando は歩いて行くこと。"
+    }
+  },
+  {
+    "id": 95,
+    "ja": "予約をしています。私の名前はリオです。",
+    "es": "Tengo una reserva a nombre de Rio.",
+    "category": "旅行会話",
+    "explanation": "a nombre de は予約名義を表す。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "a nombre de は予約名義を表す。"
+    }
+  },
+  {
+    "id": 96,
+    "ja": "もう一泊できますか？",
+    "es": "¿Puedo quedarme una noche más?",
+    "category": "旅行会話",
+    "explanation": "una noche más はもう一泊。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "una noche más はもう一泊。"
+    }
+  },
+  {
+    "id": 97,
+    "ja": "この料理には肉が入っていますか？",
+    "es": "¿Este plato lleva carne?",
+    "category": "旅行会話",
+    "explanation": "llevar は料理の材料についても使える。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "llevar は料理の材料についても使える。"
+    }
+  },
+  {
+    "id": 98,
+    "ja": "カードで支払えますか？",
+    "es": "¿Puedo pagar con tarjeta?",
+    "category": "旅行会話",
+    "explanation": "pagar con tarjeta はカード払い。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "pagar con tarjeta はカード払い。"
+    }
+  },
+  {
+    "id": 99,
+    "ja": "おすすめの料理は何ですか？",
+    "es": "¿Qué plato me recomiendas?",
+    "category": "旅行会話",
+    "explanation": "recomendar は「おすすめする」。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "recomendar は「おすすめする」。"
+    }
+  },
+  {
+    "id": 100,
+    "ja": "私はスペイン語を勉強中です。間違えたら直してください。",
+    "es": "Estoy aprendiendo español. Corrígeme si cometo errores.",
+    "category": "旅行会話",
+    "explanation": "estar + 現在分詞と si + 現在形。corrígeme は親しい相手への依頼。",
+    "grammar": {
+      "title": "旅行で使う基本構文",
+      "meaning": "疑問文では ¿...? を使います。動詞と前置詞の組み合わせを一つの表現として覚えましょう。",
+      "contrast": "poder＋不定詞、hay（〜がある）、estar（場所）、ir a（行き先）などが頻出です。",
+      "rule": "疑問詞：qué（何）/ dónde（どこ）/ cómo（どのように）。",
+      "point": "Corrígeme は corregir の tú 肯定命令形 corrige＋me。「私を訂正して」。si cometo errores は現実的な条件。"
+    }
+  }
+]

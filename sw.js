@@ -1,4 +1,4 @@
-const CACHE = 'rio-espanol-v9-20261101';
+const CACHE = 'rio-espanol-v10-20261101';
 const ASSETS = ['./', './index.html', './questions.json', './manifest.webmanifest', './icon-192.png', './icon-512.png', './mascot1.webp', './mascot2.webp', './mascot3.webp', './mascot4.webp', './mascot5.webp'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
